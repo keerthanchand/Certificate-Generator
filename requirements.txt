@@ -1,0 +1,11 @@
+click==7.1.2
+Pillow==8.0.1
+pkg-resources==0.0.0
+PyPDF2==1.26.0
+PyQt5==5.15.1
+pyqt5-plugins==5.15.1.1
+PyQt5-sip==12.8.1
+pyqt5-tools==5.15.1.2
+python-dotenv==0.15.0
+qt5-applications==5.15.1.1
+reportlab==3.5.55
